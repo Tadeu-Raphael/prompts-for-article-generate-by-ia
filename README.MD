@@ -66,7 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/42009335?s=96&v=4"
     />
-    <p>&nbsp&nbsp&Tadeu Raphael<br>
+    <p>&nbsp&nbsp Tadeu Raphael<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Tadeu-Raphael">
     GitHub</a>&nbsp;|&nbsp;
