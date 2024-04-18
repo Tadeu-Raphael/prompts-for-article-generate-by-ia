@@ -57,7 +57,7 @@ Civtai：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
-## 👨‍💻 Expert
+## 👨‍💻 Desenvolvedor
 
 <p>
     <img 
@@ -66,7 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/42009335?s=96&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&Tadeu Raphael<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Tadeu-Raphael">
     GitHub</a>&nbsp;|&nbsp;
